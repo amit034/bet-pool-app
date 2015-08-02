@@ -1,0 +1,20 @@
+{
+    "org.apache.cordova.console": {
+        "source": {
+            "type": "local",
+            "path": "/var/folders/b9/2zmt1xjd6636bmgfyf5n16rw0000gp/T/org.apache.cordova.console/package"
+        }
+    },
+    "org.apache.cordova.device": {
+        "source": {
+            "type": "local",
+            "path": "/var/folders/b9/2zmt1xjd6636bmgfyf5n16rw0000gp/T/org.apache.cordova.device/package"
+        }
+    },
+    "org.apache.cordova.statusbar": {
+        "source": {
+            "type": "local",
+            "path": "/var/folders/b9/2zmt1xjd6636bmgfyf5n16rw0000gp/T/org.apache.cordova.statusbar/package"
+        }
+    }
+}
